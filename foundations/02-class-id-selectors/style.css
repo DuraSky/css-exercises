@@ -1,0 +1,20 @@
+p.nadpisy {
+    background-color: #d1506c;
+    font-family: Verdana, "DejaVu Sans","sans-serif"
+}
+
+#druhy {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+
+#ctvrty {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p.nadpisy.tretinadpis{
+    font-size: 24px;
+}
