@@ -1,0 +1,13 @@
+.tlacitko {
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman", "sans-serif";
+}
+
+.tlacitko#jedna {
+    background-color: black;
+    color: white;
+}
+
+.tlacitko#dva {
+    background-color: yellow;
+}
